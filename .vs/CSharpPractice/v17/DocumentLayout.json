@@ -35,7 +35,7 @@
               "RelativeDocumentMoniker": "MultiThread_EX\\Program.cs",
               "ToolTip": "C:\\Users\\son\\Documents\\Github\\CSharpPractice\\MultiThread_EX\\Program.cs",
               "RelativeToolTip": "MultiThread_EX\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAgwDkAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T07:52:42.898Z",
               "EditorCaption": ""
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "MultiThread_02AsyncAwait\\Program.cs",
               "ToolTip": "C:\\Users\\son\\Documents\\Github\\CSharpPractice\\MultiThread_02AsyncAwait\\Program.cs",
               "RelativeToolTip": "MultiThread_02AsyncAwait\\Program.cs",
-              "ViewState": "AQIAAFgAAAAAAAAAAADwv1EAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T07:21:35.452Z",
               "EditorCaption": ""
@@ -76,8 +76,7 @@
               "RelativeToolTip": "MultiThread_01\\Program.cs",
               "ViewState": "AQIAAFIAAAAAAAAAAAAQwFMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T04:45:49.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T04:45:49.182Z"
             }
           ]
         }

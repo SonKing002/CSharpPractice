@@ -1,0 +1,15 @@
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\obj\Debug\net8.0\MultiThread_EX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\obj\Debug\net8.0\MultiThread_EX.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\obj\Debug\net8.0\MultiThread_EX.AssemblyInfo.cs
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\obj\Debug\net8.0\MultiThread_EX.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\obj\Debug\net8.0\MultiThread_EX.sourcelink.json
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\bin\Debug\net8.0\MultiThread_EX.exe
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\bin\Debug\net8.0\MultiThread_EX.deps.json
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\bin\Debug\net8.0\MultiThread_EX.runtimeconfig.json
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\bin\Debug\net8.0\MultiThread_EX.dll
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\bin\Debug\net8.0\MultiThread_EX.pdb
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\obj\Debug\net8.0\MultiThread_EX.dll
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\obj\Debug\net8.0\refint\MultiThread_EX.dll
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\obj\Debug\net8.0\MultiThread_EX.pdb
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\obj\Debug\net8.0\MultiThread_EX.genruntimeconfig.cache
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_EX\obj\Debug\net8.0\ref\MultiThread_EX.dll
