@@ -1,0 +1,11 @@
+C:\Users\son\Documents\Github\CSharpPractice\MultiThreading\bin\Debug\net8.0\MultiThreading.deps.json
+C:\Users\son\Documents\Github\CSharpPractice\MultiThreading\bin\Debug\net8.0\MultiThreading.dll
+C:\Users\son\Documents\Github\CSharpPractice\MultiThreading\bin\Debug\net8.0\MultiThreading.pdb
+C:\Users\son\Documents\Github\CSharpPractice\MultiThreading\obj\Debug\net8.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\CSharpPractice\MultiThreading\obj\Debug\net8.0\MultiThreading.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\CSharpPractice\MultiThreading\obj\Debug\net8.0\MultiThreading.AssemblyInfo.cs
+C:\Users\son\Documents\Github\CSharpPractice\MultiThreading\obj\Debug\net8.0\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\CSharpPractice\MultiThreading\obj\Debug\net8.0\MultiThreading.dll
+C:\Users\son\Documents\Github\CSharpPractice\MultiThreading\obj\Debug\net8.0\refint\MultiThreading.dll
+C:\Users\son\Documents\Github\CSharpPractice\MultiThreading\obj\Debug\net8.0\MultiThreading.pdb
+C:\Users\son\Documents\Github\CSharpPractice\MultiThreading\obj\Debug\net8.0\ref\MultiThreading.dll

@@ -1,0 +1,14 @@
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_01\bin\Debug\net8.0\MultiThread_01.exe
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_01\bin\Debug\net8.0\MultiThread_01.deps.json
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_01\bin\Debug\net8.0\MultiThread_01.runtimeconfig.json
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_01\bin\Debug\net8.0\MultiThread_01.dll
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_01\bin\Debug\net8.0\MultiThread_01.pdb
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_01\obj\Debug\net8.0\MultiThread_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_01\obj\Debug\net8.0\MultiThread_01.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_01\obj\Debug\net8.0\MultiThread_01.AssemblyInfo.cs
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_01\obj\Debug\net8.0\MultiThread_01.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_01\obj\Debug\net8.0\MultiThread_01.dll
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_01\obj\Debug\net8.0\refint\MultiThread_01.dll
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_01\obj\Debug\net8.0\MultiThread_01.pdb
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_01\obj\Debug\net8.0\MultiThread_01.genruntimeconfig.cache
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_01\obj\Debug\net8.0\ref\MultiThread_01.dll

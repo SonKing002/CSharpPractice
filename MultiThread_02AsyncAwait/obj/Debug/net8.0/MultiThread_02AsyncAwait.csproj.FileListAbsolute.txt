@@ -1,0 +1,14 @@
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_02AsyncAwait\bin\Debug\net8.0\MultiThread_02AsyncAwait.exe
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_02AsyncAwait\bin\Debug\net8.0\MultiThread_02AsyncAwait.deps.json
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_02AsyncAwait\bin\Debug\net8.0\MultiThread_02AsyncAwait.runtimeconfig.json
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_02AsyncAwait\bin\Debug\net8.0\MultiThread_02AsyncAwait.dll
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_02AsyncAwait\bin\Debug\net8.0\MultiThread_02AsyncAwait.pdb
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_02AsyncAwait\obj\Debug\net8.0\MultiThread_02AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_02AsyncAwait\obj\Debug\net8.0\MultiThread_02AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_02AsyncAwait\obj\Debug\net8.0\MultiThread_02AsyncAwait.AssemblyInfo.cs
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_02AsyncAwait\obj\Debug\net8.0\MultiThread_02AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_02AsyncAwait\obj\Debug\net8.0\MultiThread_02AsyncAwait.dll
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_02AsyncAwait\obj\Debug\net8.0\refint\MultiThread_02AsyncAwait.dll
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_02AsyncAwait\obj\Debug\net8.0\MultiThread_02AsyncAwait.pdb
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_02AsyncAwait\obj\Debug\net8.0\MultiThread_02AsyncAwait.genruntimeconfig.cache
+C:\Users\son\Documents\Github\CSharpPractice\MultiThread_02AsyncAwait\obj\Debug\net8.0\ref\MultiThread_02AsyncAwait.dll
