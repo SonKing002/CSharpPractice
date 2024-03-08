@@ -9,6 +9,7 @@ namespace MultiThread_01
     {
         static void Main(string[] args)
         {
+            
             //기본 == 메인 쓰레드
             //생성하기
             Thread baristaThread1 = new Thread(() =>
@@ -26,9 +27,6 @@ namespace MultiThread_01
             //작업 시작하기
             baristaThread1.Name = "Barista Thread 1";// 디버깅을 위해서 이름 지정 가능
             baristaThread1.IsBackground = true;//배경으로 돌릴 쓰레드 (false 메인이 끝나든 말든 내꺼 하는 것)//true 메인 종료시 다 종료
-            
-            
-            
             
 
             Thread.Sleep(1000);
@@ -98,6 +96,7 @@ namespace MultiThread_01
             taskWithResult.Start();
             taskWithResult.Wait();
             Console.WriteLine(taskWithResult.Result);
+            //foreach문 IEnumerable 에서 Enumerator -> GetEnumerator() current
 
             /*
             Stopwatch stopwatch = stopwatch.StartNew();

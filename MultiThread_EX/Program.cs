@@ -4,15 +4,15 @@
     {
         static void Main(string[] args)
         {
-            bool isEmpty = false;
+            bool isAnswer = false;
             int count = 3;
-            while(isEmpty ==  false) 
+            while (isAnswer == false)
             {
                 Console.WriteLine("\"신원 조회합니다 성함이 어떻게 되십니까? \"");
 
                 string yourName = Console.ReadLine();
-                isEmpty = (string.IsNullOrEmpty(yourName) == false);
-                if (isEmpty)
+                isAnswer = (string.IsNullOrEmpty(yourName) == false);
+                if (isAnswer)
                 {
                     Console.WriteLine($" \" 고생하십니다 \" ");
                     break;
@@ -35,7 +35,33 @@
             task.Wait();
             Console.WriteLine($"\"어떠냐! {task.Result}한 느낌 있지!?\"");
 
-            task = MakeWeapon();
+            isAnswer = false;
+            count = 3;
+            while (isAnswer == false)
+            { 
+                string answer = Console.ReadLine();
+                isAnswer = (string.IsNullOrEmpty(answer) == false);
+                if (isAnswer)
+                {
+                    Console.Clear();
+                    Console.WriteLine($" \" 그래!! 이어서 진행하도록 하지!! \" ");
+                    break;
+                }
+                else
+                {
+                    Console.Clear();
+                    Console.WriteLine("\"응 그래서, 어떤가?!\"");
+                    count--;
+
+                    if (count == 0)
+                    {
+                        Console.WriteLine("\" 내키지가 않네 저리가게! \"");
+                        return;
+                    }
+                }
+            }
+
+        task = MakeWeapon();
             task.Wait();
             Console.WriteLine($"\"가저가거라! {task.Result} 완성했다\"");
 
@@ -80,7 +106,6 @@
                 .CreateWeapon();
             Console.WriteLine("물건을 가져옵니다.");
             return result.ToString();
-
         }
 
     }
@@ -160,5 +185,42 @@
             Console.WriteLine($"{name} 대장장이가 무기를 완성합니다.");
             return (WeaponType)randomTyoe.Next(0, Enum.GetValues(typeof(WeaponType)).Length);
         }
+
+
+        public void Ex()
+        {
+
+            //List IEnumerable 사용, 순회 가능한
+            List<int> list = new List<int>();
+            using (IEnumerator<int> e = list.GetEnumerator())
+            {
+                while (e.MoveNext())//다음으로
+                {
+                    Console.WriteLine(e.Current);//현재Current
+                }
+                e.Reset();//초기화
+
+            }// Dispose자동 호출
+
+            //자주 사용하니까 위를 아래처럼 간략
+            foreach (int i in list)
+            { 
+            
+            }
+        }
+
+        
+        public async Task Nothing()
+        {
+
+        }
+
+        public async Task<string> Nothung2()
+        {
+            return "fds";
+        }
     }
+
+
+    
 }

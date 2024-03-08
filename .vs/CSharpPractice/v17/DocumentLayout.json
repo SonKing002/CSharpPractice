@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\son\\Documents\\Github\\CSharpPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10F6CDEC-562F-4E23-B2FD-AC9441F726BC}|MultiThread_EX\\MultiThread_EX.csproj|c:\\users\\son\\documents\\github\\csharppractice\\multithread_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10F6CDEC-562F-4E23-B2FD-AC9441F726BC}|MultiThread_EX\\MultiThread_EX.csproj|solutionrelative:multithread_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5390FC63-9FC5-4678-95AE-A4F1D591136D}|MultiThread_02AsyncAwait\\MultiThread_02AsyncAwait.csproj|c:\\users\\son\\documents\\github\\csharppractice\\multithread_02asyncawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5390FC63-9FC5-4678-95AE-A4F1D591136D}|MultiThread_02AsyncAwait\\MultiThread_02AsyncAwait.csproj|solutionrelative:multithread_02asyncawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CCF820C-9497-4D59-AEC3-E705815D1B7E}|MultiThread_01\\MultiThread_01.csproj|c:\\users\\son\\documents\\github\\csharppractice\\multithread_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CCF820C-9497-4D59-AEC3-E705815D1B7E}|MultiThread_01\\MultiThread_01.csproj|solutionrelative:multithread_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F6CDEC-562F-4E23-B2FD-AC9441F726BC}|MultiThread_EX\\MultiThread_EX.csproj|c:\\users\\son\\documents\\github\\csharppractice\\multithread_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F6CDEC-562F-4E23-B2FD-AC9441F726BC}|MultiThread_EX\\MultiThread_EX.csproj|solutionrelative:multithread_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\son\\AppData\\Local\\Temp\\.vsdbgsrc\\b1557aa7e71c6fbbd25f6fc23ee5a69aa6b59d29105f74b476fcb458288e0a55\\Console.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -25,30 +25,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\CSharpPractice\\MultiThread_EX\\Program.cs",
               "RelativeDocumentMoniker": "MultiThread_EX\\Program.cs",
               "ToolTip": "C:\\Users\\son\\Documents\\Github\\CSharpPractice\\MultiThread_EX\\Program.cs",
               "RelativeToolTip": "MultiThread_EX\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHYAAAAdAAAA",
+              "ViewState": "AQIAAJQAAAAAAAAAAAA2wF4AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T07:52:42.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\CSharpPractice\\MultiThread_02AsyncAwait\\Program.cs",
               "RelativeDocumentMoniker": "MultiThread_02AsyncAwait\\Program.cs",
               "ToolTip": "C:\\Users\\son\\Documents\\Github\\CSharpPractice\\MultiThread_02AsyncAwait\\Program.cs",
               "RelativeToolTip": "MultiThread_02AsyncAwait\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwF0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-07T07:21:35.452Z",
               "EditorCaption": ""
@@ -59,24 +59,24 @@
               "Title": "Console.cs",
               "DocumentMoniker": "C:\\Users\\son\\AppData\\Local\\Temp\\.vsdbgsrc\\b1557aa7e71c6fbbd25f6fc23ee5a69aa6b59d29105f74b476fcb458288e0a55\\Console.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b1557aa7e71c6fbbd25f6fc23ee5a69aa6b59d29105f74b476fcb458288e0a55\\Console.cs",
-              "ToolTip": "C:\\Users\\son\\AppData\\Local\\Temp\\.vsdbgsrc\\b1557aa7e71c6fbbd25f6fc23ee5a69aa6b59d29105f74b476fcb458288e0a55\\Console.cs [\uC77D\uAE30 \uC804\uC6A9]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b1557aa7e71c6fbbd25f6fc23ee5a69aa6b59d29105f74b476fcb458288e0a55\\Console.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "ToolTip": "C:\\Users\\son\\AppData\\Local\\Temp\\.vsdbgsrc\\b1557aa7e71c6fbbd25f6fc23ee5a69aa6b59d29105f74b476fcb458288e0a55\\Console.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b1557aa7e71c6fbbd25f6fc23ee5a69aa6b59d29105f74b476fcb458288e0a55\\Console.cs",
               "ViewState": "AQIAAF8AAAAAAAAAAAAnwHMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T04:52:57.311Z",
-              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+              "WhenOpened": "2024-03-07T04:52:57.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\CSharpPractice\\MultiThread_01\\Program.cs",
               "RelativeDocumentMoniker": "MultiThread_01\\Program.cs",
               "ToolTip": "C:\\Users\\son\\Documents\\Github\\CSharpPractice\\MultiThread_01\\Program.cs",
               "RelativeToolTip": "MultiThread_01\\Program.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAQwFMAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T04:45:49.182Z"
+              "WhenOpened": "2024-03-07T04:45:49.182Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sDEsDrrCnq3WfM2xZBsDN18HwbQ45LPD0iCaJ1rX7p3QADVpyevDJyqFNXOVTIn+p55Q572/Mqb/COXHaXkANQ==",
+  "dgSpecHash": "kX8mlAhlhHFh3OMr0tWFkBGyLth4zJvsu+oyYEYmpwePiE0y0gQo5CgspDsKZYbODmXsSoJfbLLQmMvXLW7QJw==",
   "success": true,
   "projectFilePath": "C:\\Users\\son\\Documents\\Github\\CSharpPractice\\MultiThread_EX\\MultiThread_EX.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\son\\.nuget\\packages\\microsoft.build.tasks.git\\8.0.0\\microsoft.build.tasks.git.8.0.0.nupkg.sha512",
+    "C:\\Users\\son\\.nuget\\packages\\microsoft.sourcelink.common\\8.0.0\\microsoft.sourcelink.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\son\\.nuget\\packages\\microsoft.sourcelink.github\\8.0.0\\microsoft.sourcelink.github.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
